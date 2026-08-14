@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**TinyikoMbidhli-dev/TinyikoMbidhli-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm TINIKO
 
-Here are some ideas to get you started:
+### BSc Mathematical & Computer Sciences Student | Aspiring Cybersecurity Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FOUNDATION IN COMPUTER SCIENCE AND BUILDING PERSEONAL PROJECTS TO ENHANCE MY SKILLS.
+
+
+##  WHAT I DO:
+
+*  Studying **BSc Mathematical & Computer Sciences**
+**TEACHING CYBERSECURITY AND CODING CONCEPTS ON SOCIAL MEADIA PLATFOORMS**
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+`C++` `Java` `Python`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Linux`
+
