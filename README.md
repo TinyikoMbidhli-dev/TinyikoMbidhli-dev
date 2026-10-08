@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm TINIKO
+# TINIKO MBIDHLI
 
 ### BSc Mathematical & Computer Sciences Student | Aspiring Cybersecurity Analyst
 
@@ -9,7 +9,7 @@ FOUNDATION IN COMPUTER SCIENCE AND BUILDING PERSEONAL PROJECTS TO ENHANCE MY SKI
 ##  WHAT I DO:
 
 *  Studying **BSc Mathematical & Computer Sciences**
-**TEACHING CYBERSECURITY AND CODING CONCEPTS ON SOCIAL MEADIA PLATFOORMS**
+**TEACHING CYBERSECURITY AND CS CONCEPTS ON SOCIAL MEADIA PLATFORMS**
 
 ## 🛠️ Technologies & Tools
 
